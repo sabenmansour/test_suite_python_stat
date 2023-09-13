@@ -1,5 +1,5 @@
 # Python Stat Test Suite
-   
+
 This is a test suite for the exercises found in the "Python Statistiques.pdf" document.
 
 ## Prerequisites

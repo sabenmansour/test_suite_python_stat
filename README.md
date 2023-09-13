@@ -64,6 +64,3 @@ Once NumPy is installed, you can run the test suite with the following command :
   python3 test_suite_my_stat.py
   ```
 
-
-```
-

@@ -10,12 +10,12 @@ either to :
 
 if your envirnment is externally  managed 
   you can create a virtual environment with : 
-    sudo apt install python3.11-venv
-    python3 -m venv myenv 
+    `sudo apt install python3.11-venv`
+    `python3 -m venv myenv` 
   after just :  
-    pip install numpy
+    `pip install numpy`
 
   or :
-    sudo apt install pipx
-    pipx install numpy
+    `sudo apt install pipx`
+    `pipx install numpy`
   
